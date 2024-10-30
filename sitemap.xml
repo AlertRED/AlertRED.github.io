@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://mydomain.org/mysite/</loc>
+         <lastmod>2024-10-30</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/development_flow/</loc>
+         <lastmod>2024-10-30</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/development_flow/deploy/</loc>
+         <lastmod>2024-10-30</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/development_flow/development/</loc>
+         <lastmod>2024-10-30</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/development_flow/system_design/</loc>
+         <lastmod>2024-10-30</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/development_flow/technical_documentation/</loc>
+         <lastmod>2024-10-30</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/infrastructure/</loc>
+         <lastmod>2024-10-30</lastmod>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/team/</loc>
+         <lastmod>2024-10-30</lastmod>
+    </url>
+</urlset>
